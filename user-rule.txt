@@ -1,0 +1,9 @@
+||any.do^
+
+||jetbrains.com
+
+||kotlinlang.org
+
+||itunes.apple.com
+
+||salttiger.com
