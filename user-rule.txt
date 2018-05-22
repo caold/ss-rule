@@ -7,3 +7,11 @@
 ||itunes.apple.com
 
 ||salttiger.com
+
+||digitalocean.com
+
+||f8.com
+
+||theverge.com
+
+||plugins.jetbrains.com
